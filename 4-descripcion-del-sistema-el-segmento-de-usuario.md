@@ -1,6 +1,6 @@
 # Descripción del sistema: el segmento de usuariol (4 de 31)
 
-**![GPS_navegador](./gps_files/GPS_navegador.png)El segmento de usuario** lo compone **cualquiera que reciba y utilice las señales GPS.** Según la **precisión** con que se pueden obtener los resultados, los receptores se clasifican en: 
+**![GPS_navegador](img/GPS_navegador.png)El segmento de usuario** lo compone **cualquiera que reciba y utilice las señales GPS.** Según la **precisión** con que se pueden obtener los resultados, los receptores se clasifican en: 
 
 *   **Geodésicos-topográficos**  
     

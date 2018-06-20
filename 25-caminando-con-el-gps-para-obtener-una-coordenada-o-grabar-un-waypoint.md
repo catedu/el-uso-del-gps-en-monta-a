@@ -1,6 +1,6 @@
 # Caminando con el GPS para obtener una coordenada o grabar un waypoint (25 de 31)
 
-![Grabar Waypoints](./gps_files/Grabar Waypoints.jpg)Para **grabar un Waypoint** en nuestro GPS, o lo que es lo mismo, para **marcar la posición de un elemento de interé**s en nuestro GPS, hay que hacerlo de manera consciente, o lo que es lo miso, hay que "marcarlo".  
+![Grabar Waypoints](img/Grabar Waypoints.jpg)Para **grabar un Waypoint** en nuestro GPS, o lo que es lo mismo, para **marcar la posición de un elemento de interé**s en nuestro GPS, hay que hacerlo de manera consciente, o lo que es lo miso, hay que "marcarlo".  
 
 Normalmente el botón de marcar es un botón o una acción bastante intuitiva, puesto que **esta es una de las acciones que más frecuentemente haremos con nuestro GPS** (marcar un refugio, un puente, un abrigo, un cado de setas, etc...).  
 

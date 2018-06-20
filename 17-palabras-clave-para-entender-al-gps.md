@@ -1,6 +1,6 @@
 # Palabras Clave para entender al GPS (17 de 31)
 
-![GPS en la mano](./gps_files/GPS en la mano.jpg)Este **no es un curso de manejo de GPS**, puesto que en el mercado existen tantas marcas y modelos que sería imposible hacer un curso que sirviera para todos ellos, pero sí queremos proporcionar una **idea general del sistema y las posibilidades de su uso**.
+![GPS en la mano](img/GPS en la mano.jpg)Este **no es un curso de manejo de GPS**, puesto que en el mercado existen tantas marcas y modelos que sería imposible hacer un curso que sirviera para todos ellos, pero sí queremos proporcionar una **idea general del sistema y las posibilidades de su uso**.
 
 En primer lugar nos haremos con las **palabras clave** de la información que es capaz de registrar un GPS:  
 

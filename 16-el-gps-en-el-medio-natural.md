@@ -1,6 +1,6 @@
 # El GPS en el medio natural (16 de 31)
 
-![usar GPS en el medio natural](./gps_files/Usar el GPS en el medio natural.jpg)Ya hemos visto que el **GPS tiene sus limitaciones y sus errores**. Recordemos ahora algunos de los **condicionantes** que impone el uso del GPS en el **medio natural**:
+![usar GPS en el medio natural](img/Usar el GPS en el medio natural.jpg)Ya hemos visto que el **GPS tiene sus limitaciones y sus errores**. Recordemos ahora algunos de los **condicionantes** que impone el uso del GPS en el **medio natural**:
 
 *   La **recepción de la señal en zonas boscosas** puede ser deficiente, sobre todo cuando hay mucha espesura y las hojas de los árboles son grandes, aunque las últimas generaciones de receptores GPS han mejorado muchísimo en ese sentio  
     

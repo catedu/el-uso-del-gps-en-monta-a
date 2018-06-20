@@ -1,6 +1,6 @@
 # Otros sistemas: SBAS (10 de 31)
 
-![Sistemas SBAS](./gps_files/Sistemas SBAS.png)Los [**sistemas SBAS**](https://es.wikipedia.org/wiki/SBAS "Sistemas SBAS en wikipedia") (Satellite Based Augmentation System  o Sistema de Aumentación Basado en Satélites), **es un sistema de corrección de las señales que proporcionan los Sistemas Globales de Navegación por Satélite GNSS** (GNSS=GPS+GLONASS+Galileo).
+![Sistemas SBAS](img/Sistemas SBAS.png)Los [**sistemas SBAS**](https://es.wikipedia.org/wiki/SBAS "Sistemas SBAS en wikipedia") (Satellite Based Augmentation System  o Sistema de Aumentación Basado en Satélites), **es un sistema de corrección de las señales que proporcionan los Sistemas Globales de Navegación por Satélite GNSS** (GNSS=GPS+GLONASS+Galileo).
 
 Los **sistemas SBAS mejoran el posicionamiento horizontal y vertical del receptor y dan información sobre la calidad de las señales**. Aunque inicialmente fue desarrollado para dar una precisión mayor a la navegación aérea, cada vez se está generalizando más su uso en otro tipo de actividades que requieren de un uso sensible de la señal GPS.
 

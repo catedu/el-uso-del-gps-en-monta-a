@@ -1,6 +1,6 @@
 # Descripción del sitema: el segmento espacial (2 de 31)
 
-![Red de Satélites GPS](./gps_files/satelites.jpg)El sistema **GPS** tiene **tres segmentos**:
+![Red de Satélites GPS](img/satelites.jpg)El sistema **GPS** tiene **tres segmentos**:
 
 *   **Segmento Espacial**
 *   **Segmento de Control**

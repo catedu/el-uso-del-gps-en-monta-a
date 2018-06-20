@@ -1,6 +1,6 @@
 # Marcas de GPS (19 de 31)
 
-**![Marcas de GPS](./gps_files/Marcas de GPS.jpg)**Entre los **GPS Senderistas** las marcas más habituales son:
+**![Marcas de GPS](img/Marcas de GPS.jpg)**Entre los **GPS Senderistas** las marcas más habituales son:
 
 *   [**Garmin**](http://www.garmin.com/es-ES "Web de GARMIN")
     

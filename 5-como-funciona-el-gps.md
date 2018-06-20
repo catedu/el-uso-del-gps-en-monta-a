@@ -1,6 +1,6 @@
 # Cómo funciona el GPS (5 de 31)
 
-![Funcionamiento del Sistema GPS](./gps_files/Funcionamiento del sistema GPS.png)El sistema GPS **funciona** de la siguiente manera:
+![Funcionamiento del Sistema GPS](img/Funcionamiento del sistema GPS.png)El sistema GPS **funciona** de la siguiente manera:
 
 1.  Las **señales de los satélites** **son leídas desde las estaciones**: Isla Ascensión, Isla Diego García, Hawái y Kwajalein
 2.  **Estas mediciones son enviadas a la Estación de Control Maestro en Colorado Springs**, donde son procesadas para **determinar cualquier error**

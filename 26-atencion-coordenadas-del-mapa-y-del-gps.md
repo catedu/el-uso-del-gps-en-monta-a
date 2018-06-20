@@ -1,6 +1,6 @@
 # Atención: coordenadas del mapa y del GPS (26 de 31)
 
-![GPS y mapa](./gps_files/GPS y mapa.jpg)Si hiciste el **curso voluntario de Nociones de Cartografía** recordarás que te hablábamos de los **distintos tipos de [sistemas de proyección](https://es.wikipedia.org/wiki/Sistema_de_coordenadas "Sistema de coordenadas en Wikipedia") (geográficas, proyectadas UTM, etc...) y de distintos tipos de [Datum](https://es.wikipedia.org/wiki/Datum "Datum en Wikipedia") (ETRS89, ED50, WGS84...)**.  
+![GPS y mapa](img/GPS y mapa.jpg)Si hiciste el **curso voluntario de Nociones de Cartografía** recordarás que te hablábamos de los **distintos tipos de [sistemas de proyección](https://es.wikipedia.org/wiki/Sistema_de_coordenadas "Sistema de coordenadas en Wikipedia") (geográficas, proyectadas UTM, etc...) y de distintos tipos de [Datum](https://es.wikipedia.org/wiki/Datum "Datum en Wikipedia") (ETRS89, ED50, WGS84...)**.  
 
 Debes saber que **los GPS, por defecto, toman todas las medidas en formato de coordenadas geográficas Datum WGS84**, aunque el formato en que nos muestra el apartado las coordenadas se puede configurar.  
 
@@ -14,21 +14,21 @@ Las siguientes imágenes muestran, para el refugio de Góriz, varios tipos de co
 
 **Coordenadas Geográficas**, en grados, minutos y segundos:
 
-![Coordenadas Geográficas](./gps_files/coordenadas Geográficas.jpg)
+![Coordenadas Geográficas](img/coordenadas Geográficas.jpg)
 
 **Coordenadas UTM Datum ED50, HUSO 31, en metros** (el antiguo, que ya no debería usarse pero bastantes mapas impresos vienen con él):
 
-![Coordenadas UTM ED50](./gps_files/Coordenadas UTM ED50.jpg)
+![Coordenadas UTM ED50](img/Coordenadas UTM ED50.jpg)
 
 (Observado el orden de las cifras, no debería ser que confundierais nunca una coordenada geográfica con una proyectada, los valores no tienen mucho que ver, pero tampoco las cifras, ni las unidades...)
 
 **Coordenadas UTM Datum ETRS89** (el nuevo, por normativa europea, sólo los mapas nuevos vienen con él):
 
-![Coordenadas UTM ETRS89](./gps_files/Coordenadas UTM ETRS89.jpg)
+![Coordenadas UTM ETRS89](img/Coordenadas UTM ETRS89.jpg)
 
 **Coordenadas UTM Datum WGS84** (no suele haber cartografía con este Datum, pero es equivalente al ETRS89 y las coordenadas son idénticas):
 
-![Coordenadas UTM WGS84](./gps_files/Coordenadas UTM WGS84.jpg)
+![Coordenadas UTM WGS84](img/Coordenadas UTM WGS84.jpg)
 
 **Entre el Datum ED50 y el ETR89 sí hay diferencia, y esa diferencia es importante si estamos sobre el terreno**, GPS en mano, buscando una fuente, un puente, un refugio o un accidentado... 
 

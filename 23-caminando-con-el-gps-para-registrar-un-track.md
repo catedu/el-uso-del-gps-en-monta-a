@@ -1,6 +1,6 @@
 # Caminando con el GPS para registrar un track (23 de 31)
 
-**![imagen del track](./gps_files/imagen del track.jpg)¿Nos ponemos a caminar?** Sí, haber llegado hasta la diapositiva 23 sin haber salido a hacer ningún recorrido te puede parecer una pérdida de tiempo, pero ya os adelantamos al inicio que **este no es un curso de manejo de GPS, sino de fundamentos del GPS**: comprender para saber utilizar...
+**![imagen del track](img/imagen del track.jpg)¿Nos ponemos a caminar?** Sí, haber llegado hasta la diapositiva 23 sin haber salido a hacer ningún recorrido te puede parecer una pérdida de tiempo, pero ya os adelantamos al inicio que **este no es un curso de manejo de GPS, sino de fundamentos del GPS**: comprender para saber utilizar...
 
 Bien, pues cogemos nuestra mochila y nos ponemos a andar, sí. Hemos sido unos montañeros prudentes y **llevamos de todo: mapa, brújula y sí, también GPS**.
 

@@ -1,6 +1,6 @@
 # Hacer trabajar nuestro Smartphone como un GPS senderista (22 de 31)
 
-![OruxMaps](./gps_files/OruxMaps.png)Si queremos **hacer trabajar nuestro Smartphone como un GPS senderista necesitaremos instalar alguna App** en el teléfono que le permita al GPS extender sus funcionalidades.
+![OruxMaps](img/OruxMaps.png)Si queremos **hacer trabajar nuestro Smartphone como un GPS senderista necesitaremos instalar alguna App** en el teléfono que le permita al GPS extender sus funcionalidades.
 
 Existen varias App's que lo permiten, y cada día salen unas nuevas, se desactualizan otras, y nuestra recomendación en ese sentido no serviría de nada pues este mundo se mueve muy deprisa.  
 

@@ -1,6 +1,6 @@
 # Otros sistemas GNSS: GLONASS (8 de 31)
 
-![Orbitas satélites](./gps_files/Orbitas satelites.png)El [**s**](https://es.wikipedia.org/wiki/GLONASS "GLONASS en wikipedia")[**istema GLONASS**](https://es.wikipedia.org/wiki/GLONASS "GLONASS en wikipedia") es otro sistema que **creó la Unión Soviética** de manera homóloga al sistema GPS de los americanos. Consta de una constelación de **31 satélites** (24 en activo, 3 satélites de repuesto, 2 en mantenimiento, uno en servicio y otro en pruebas).  
+![Orbitas satélites](img/Orbitas satelites.png)El [**s**](https://es.wikipedia.org/wiki/GLONASS "GLONASS en wikipedia")[**istema GLONASS**](https://es.wikipedia.org/wiki/GLONASS "GLONASS en wikipedia") es otro sistema que **creó la Unión Soviética** de manera homóloga al sistema GPS de los americanos. Consta de una constelación de **31 satélites** (24 en activo, 3 satélites de repuesto, 2 en mantenimiento, uno en servicio y otro en pruebas).  
 
 Los **tres primeros satélites** fueron colocados en órbita en octubre de **1982**. El sistema fue pensado para ser funcional en el año 1991, pero la constelación no fue terminada hasta diciembre de 1995 y **comenzó a ser operativo el 18 de enero de 1996**.
 

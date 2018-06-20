@@ -1,6 +1,6 @@
 # El GPS del Smartphone (21 de 31)  
 
-![Smartphone y GPS](./gps_files/Smartphone y GPS.jpg)Tal como hemos ido insistiendo hasta aquí, **muchas personas desconocen que llevan GPS en su teléfono Smartphone**, o lo saben pero no saben lo útil que les puede resultar en montaña o en sus actividades en el medio natural.
+![Smartphone y GPS](img/Smartphone y GPS.jpg)Tal como hemos ido insistiendo hasta aquí, **muchas personas desconocen que llevan GPS en su teléfono Smartphone**, o lo saben pero no saben lo útil que les puede resultar en montaña o en sus actividades en el medio natural.
 
 Por un motivo u otro, todavía un grupo importante de excursionistas y montañeros dicen no tener GPS sin ser cierto, lo que también significa que en realidad lo llevan pero como **no saben usarlo** es como si no lo llevaran.  
 

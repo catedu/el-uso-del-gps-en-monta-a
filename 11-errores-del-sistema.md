@@ -1,6 +1,6 @@
 # Errores del sistema (11 de 31)
 
-![Errores comunes GPS](./gps_files/Errores comunes GPS.jpg)Existen distintos tipos de **errores que pueden afectar a la precisión y calidad de la medida del GPS**. Algunos de estos errores se pueden "controlar" y evitar, otros sólo se pueden "conocer" y asumir, puesto que no podremos evitarlos.
+![Errores comunes GPS](img/Errores comunes GPS.jpg)Existen distintos tipos de **errores que pueden afectar a la precisión y calidad de la medida del GPS**. Algunos de estos errores se pueden "controlar" y evitar, otros sólo se pueden "conocer" y asumir, puesto que no podremos evitarlos.
 
 Sin embargo, recuerda siempre que **el GPS es un aparato electrónico** (complementario a nuesto mapa+brújula) y que **en cualquier momento nos puede fallar**.
 

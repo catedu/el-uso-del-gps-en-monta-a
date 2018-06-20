@@ -1,4 +1,6 @@
-# ![Mafalda y el mundo](./gps_files/Mafalda y el mundo.jpg)Qué es el sistema GPS (1 de 31)
+# Qué es el sistema GPS (1 de 31)
+
+![Mafalda y el mundo](img/Mafalda y el mundo.jpg)
 
 El ser humano siempre ha sentido la necesidad de **saber en qué lugar de la Tierra se encuentra**.
 
