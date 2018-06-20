@@ -1,6 +1,8 @@
 # Errores del sistema (11 de 31)
 
-![Errores comunes GPS](img/Errores comunes GPS.jpg)Existen distintos tipos de **errores que pueden afectar a la precisión y calidad de la medida del GPS**. Algunos de estos errores se pueden "controlar" y evitar, otros sólo se pueden "conocer" y asumir, puesto que no podremos evitarlos.
+![Errores comunes GPS](img/Errores comunes GPS.jpg)
+
+Existen distintos tipos de **errores que pueden afectar a la precisión y calidad de la medida del GPS**. Algunos de estos errores se pueden "controlar" y evitar, otros sólo se pueden "conocer" y asumir, puesto que no podremos evitarlos.
 
 Sin embargo, recuerda siempre que **el GPS es un aparato electrónico** (complementario a nuesto mapa+brújula) y que **en cualquier momento nos puede fallar**.
 
@@ -15,4 +17,3 @@ Los **errores más frecuentes** son:
 *   **Errores de usuario**, incluyendo la **selección de un Datum geodésico erróneo**, pueden causar errores desde uno hasta unos cientos de metros
 *   **Errores en el receptor** debidos a **fallos de programa o del hardware** pueden producir errores esporádicos de cualquier magnitud
 
-Algunos de los errores del GPS más habituales son...

@@ -12,4 +12,13 @@ Hoy día una **amplia variedad de sectores sociales necesitan o se benefician de
 *   **Uso lúdico y ocio:** para geoposcionar el tiempo libre (recorridos senderistas, geolocalización de entradas de cuevas, etc..) y jugar con esa geoposición (geocaching)
     
 
-![Uso GPS militar](img/Uso militar.jpg) ![Uso transporte ](img/Uso transporte.jpg) ![uso terapéutico](img/Uso terapéutico.png) ![Uso lúdico](img/Uso lúdico.jpg) ![Uso rutas](img/Uso rutas.jpg)
+![Uso GPS militar](img/Uso militar.jpg)
+
+![Uso transporte ](img/Uso transporte.jpg)
+
+![uso terapéutico](img/Uso terapéutico.png)
+
+![Uso lúdico](img/Uso lúdico.jpg)
+
+![Uso rutas](img/Uso rutas.jpg)
+

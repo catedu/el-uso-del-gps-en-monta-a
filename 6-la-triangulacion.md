@@ -1,6 +1,8 @@
 # La triangulación (6 de 31)
 
-![Triangulación de los satélites](img/Triangulación de los satélites.jpg)El sistema de triangulación funciona de la siguiente manera:
+![Triangulación de los satélites](img/Triangulación de los satélites.jpg)
+
+El sistema de triangulación funciona de la siguiente manera:
 
 1.  El **receptor GPS** localiza automáticamente como **mínimo tres satélites** de la red
     
@@ -12,5 +14,3 @@
     
 5.  Debido a la **falta de precisión en el reloj que se encuentra en el receptor necesitamos al menos 4 satelites** para obtener la posición.
     
-
-#### Empareja las siguientes frases:

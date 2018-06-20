@@ -1,743 +1,164 @@
-
-Respuesta 1: 
-
-Para un uso civil, con el fin de mejorar la calidad de vida de los ciudadandos de todo el mundo
-
-Comentario 1
-Incorrecto: Lo creó el Departamento de Defensa de los Estados Unidos para un uso militar
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 2: 
-
-Para un uso militar: la geoposición del enemigo es fundamental. También la de los recursos propios.
-
-Comentario 2
-Correcto: Lo creó el Departamento de Defensa de los Estados Unidos para un uso militar
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 3: 
-
-Para un uso turístico: para geoposicionar los coches y las personas en la montaña
-
-Comentario 3
-Incorrecto: Lo creó el Departamento de Defensa de los Estados Unidos para un uso militar
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 1: 
-
-Los satélites, una red de 24 a 30 satélites, de los que 4-6 satlélites siempre están a la vista de cualquier punto
-
-Comentario 1
-Correcto
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 2: 
-
-Los satélites, una red de 12, de los que 3 siempre están a la vista de cualquier punto
-
-Comentario 2
-Incorrecto: es una red de 24 a 30 satélites, de los que 4-6 satlélites siempre están a la vista de cualquier punto
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 1: 
-
-5 estaciones de control repartidas por el planeta, que reajustan las señales de los satélites
-
-Comentario 1
-Correcto
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 2: 
-
-Entre 24 y 30 satélites que dan vueltas en el espacio cada 12 horas
-
-Comentario 2
-Incorrecto: 5 estaciones de control repartidas por el planeta
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 3: 
-
-Los usuarios con nuestros receptroes GPS
-
-Comentario 3
-Incorrecto: 5 estaciones de control repartidas por el planeta
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 4: 
-
-El departamento de Defensa de Estados Unidos
-
-Comentario 4
-Incorrecto: 5 estaciones de control repartidas por el planeta
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 1: 
-
-Es el que solemos llevar en nuestro teléfono o GPS senderista, y es menos preciso que un GPS de tipo geodésico-topográfico
-
-Comentario 1
-Correcto
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 2: 
-
-Es el que suelen llevar los ingenieros y topógrafos para mediciones de gran precisión, aunque es menos preciso que un GPS de tipo navegador
-
-Comentario 2
-Incorrecto: es el que solemos llevar en nuestro teléfono o GPS senderista, y es menos preciso que un GPS de tipo geodésico-topográfico
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 1: 
-
-El segmento espacial (satélites) el segmento de control (estaciones de observación equipadas para corregir a los satélites) y el receptor GPS del usuario (que recibe las señales y las transforma en mi posición)
-
-Comentario 1
-Correcto
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 2: 
-
-Mi receptor GPS de usuario (que recibe las señales y las transforma en mi posición)
-
-Comentario 2
-Incorrecto: son necesarios el segmento espacial (satélites) el segmento de control (estaciones de observación equipadas para corregir a los satélites) y el receptor GPS del usuario (que recibe las señales y las transforma en mi posición)
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 3: 
-
-Las estaciones de control  (estaciones de observación equipadas para corregir a los satélites)
-
-Comentario 3
-Incorrecto: son necesarios el segmento espacial (satélites) el segmento de control (estaciones de observación equipadas para corregir a los satélites) y el receptor GPS del usuario (que recibe las señales y las transforma en mi posición)
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 4: 
-
-El segmento espacial (satélites) 
-
-Comentario 4
-Incorrecto: son necesarios el segmento espacial (satélites) el segmento de control (estaciones de observación equipadas para corregir a los satélites) y el receptor GPS del usuario (que recibe las señales y las transforma en mi posición)
-
-Puntuación
-0
-
-Saltar
-Esta página
-
-Comentario (correcto)
-Correcto
-
-Puntuación de respuesta correcta: 
-1
-
-Salto a respuesta correcta: 
-Página siguiente
-
-Comentario (erróneo)
-Incorrecto: alguna respuesta no la has acertado
-
-Puntuación de respuesta errónea: 
-0
-
-Salto a respuesta errónea: 
-Página siguiente
-
-Respuesta 1: 
-
-Se necesitan un mínimo de...
-
-Concuerda con la respuesta 1: 
-...4 satélites a la vista para obtener una posición precisa en nuestro GPS
-
-Respuesta 2: 
-
-Nuestro receptor GPS recibe señal de...
-
-Concuerda con la respuesta 2: 
-...los satélites que tiene a la vista
-
-Respuesta 3: 
-
-3 satélites a la vista no son suficientes por...
-
-Concuerda con la respuesta 3: 
-...la falta de precisión del reloj de nuestro receptor GPS
-
-Respuesta 1: 
-
-Es un error intencionado que el propietario del sistema GPS incluía en las mediciones GPS cuando quería
-
-Comentario 1
-Correcto: pero desde el año 2.000 ya no se aplica
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 2: 
-
-Es una selección de satélites que dan mejor señal que los vecinos
-
-Comentario 2
-Incorrecto: Es un error intencionado que el propietario del sistema GPS incluía en las mediciones GPS cuando quería, aunque desde el año 2.000 ya no se aplica
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 1: 
-
-El sistema GLONASS lo creó la Unión Soviética y pretendía ser un equivalente al sistema GPS americano
-
-Comentario 1
-Correcto: así es
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 2: 
-
-El sistema GLONASS lo crearon los americanos para dar servicios a la Unión Soviética
-
-Comentario 2
-Incorrecto: El sistema GLONASS lo creó la Unión Soviética y pretendía ser un equivalente al sistema GPS americano
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 3: 
-
-El sistema GLONASS es como el sistema GPS pero con un error de 30 m que todavía funciona
-
-Comentario 3
-Incorrecto: El sistema GLONASS lo creó la Unión Soviética y pretendía ser un equivalente al sistema GPS americano
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 4: 
-
-El sistema GLONASS es el sistema GPS creado en Europa para uso civil
-
-Comentario 4
-Incorrecto: El sistema GLONASS lo creó la Unión Soviética y pretendía ser un equivalente al sistema GPS americano
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 1: 
-
-Galileo es un sistema GNSS desarrollado por la Unión Europea
-
-Comentario 1
-Correcto: así es
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 2: 
-
-Galileo trabaja conjuntamente con GPS y GLONASS para hacer un sistema global más completo
-
-Comentario 2
-Incorrecto: Son sistemas equivalentes, cada uno de distinto dueño, y pueden hacer las mismas funciones pero no han sido creados para complementarse
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 3: 
-
-Galileo tendrá 27 satélites, que poco a poco se están poniendo en marcha
-
-Comentario 3
-Correcto: así es
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 4: 
-
-Galileo ha nacido en el ámbito civil, no el militar como los otros sistemas GNSS, y persigue ampliar el uso de utilidades civiles y de seguridad donde la geolocalización es importante
-
-Comentario 4
-Correcto: así es
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Comentario (correcto)
-Correcto
-
-Puntuación de respuesta correcta: 
-1
-
-Salto a respuesta correcta: 
-Página siguiente
-
-Comentario (erróneo)
-Incorrecto: alguna pareja no la has acertado
-
-Puntuación de respuesta errónea: 
-0
-
-Salto a respuesta errónea: 
-Página siguiente
-
-Respuesta 1: 
-
-Los sistemas SBAS han sido creados para...
-
-Concuerda con la respuesta 1: 
-...corregir las señales de los sistemas GNSS
-
-Respuesta 2: 
-
-El sistema SBAS europeo se llama...
-
-Concuerda con la respuesta 2: 
-...EGNOS
-
-Respuesta 3: 
-
-El sistema SBAS americano se llama...
-
-Concuerda con la respuesta 3: 
-...WAAS
-
-Respuesta 4: 
-
-El sistema SBAS en el GPS senderista...
-
-Concuerda con la respuesta 4: 
-...se puede activar o desactivar a voluntad
-
-Comentario (correcto)
-Correcto
-
-Puntuación de respuesta correcta: 
-1
-
-Salto a respuesta correcta: 
-Página siguiente
-
-Comentario (erróneo)
-Incorrecto: alguna pareja no la has acertado
-
-Puntuación de respuesta errónea: 
-0
-
-Salto a respuesta errónea: 
-Página siguiente
-
-Respuesta 1: 
-
-El error multisenda...
-
-Concuerda con la respuesta 1: 
-...por rebotes de la señal en los edificios, escarpes rocosos, etc...
-
-Respuesta 2: 
-
-El error ionosférico...
-
-Concuerda con la respuesta 2: 
-...por restrasos en la señal GPS al atravesar la ionosfera
-
-Respuesta 3: 
-
-Error por geometría...
-
-Concuerda con la respuesta 3: 
-...por posición vertical de los satélites en la esfera de cielo que vemos desde un punto
-
-Respuesta 4: 
-
-Error del segmento espacial o el segmento de control...
-
-Concuerda con la respuesta 4: 
-...por mal ajuste entre estos dos segmentos
+::Qué es el sistema gps:: Como montañeros, nada de esto es muy importante pero nos ayuda a comprender los orígenes del GPS. El GPS nació... {
+~Para un uso civil, con el fin de mejorar la calidad de vida de los ciudadandos de todo el mundo
+#Lo creó el Departamento de Defensa de los Estados Unidos para un uso militar
+=Para un uso militar: la geoposición del enemigo es fundamental. También la de los recursos propios.
+#Lo creó el Departamento de Defensa de los Estados Unidos para un uso militar
+~Para un uso turístico: para geoposicionar los coches y las personas en la montaña
+#Lo creó el Departamento de Defensa de los Estados Unidos para un uso militar
+}
+
+::El segmento espacial:: El segmento espacial lo componen... {
+=Los satélites, una red de 24 a 30 satélites, de los que 4-6 satlélites siempre están a la vista de cualquier punto
+~Los satélites, una red de 12, de los que 3 siempre están a la vista de cualquier punto
+#Es una red de 24 a 30 satélites, de los que 4-6 satlélites siempre están a la vista de cualquier punto
+}
+
+::El segmento de control:: El segmento de control está formador por... {
+=5 estaciones de control repartidas por el planeta, que reajustan las señales de los satélites
+~Entre 24 y 30 satélites que dan vueltas en el espacio cada 12 horas
+#5 estaciones de control repartidas por el planeta
+~Los usuarios con nuestros receptroes GPS
+#Estaciones de control repartidas por el planeta
+~El departamento de Defensa de Estados Unidos
+#5 estaciones de control repartidas por el planeta
+}
+
+::El segmento de usuario:: Un GPS de tipo "navegador"... {
+=Es el que solemos llevar en nuestro teléfono o GPS senderista, y es menos preciso que un GPS de tipo geodésico-topográfico
+~Es el que suelen llevar los ingenieros y topógrafos para mediciones de gran precisión, aunque es menos preciso que un GPS de tipo navegador
+#Es el que solemos llevar en nuestro teléfono o GPS senderista, y es menos preciso que un GPS de tipo geodésico-topográfico
+}
+
+::Funcionamiento del GPS:: Entonces, ¿qué elementos son necesarios en el sistema GPS para tener una medida de mi posición sobre la tierra?... {
+=El segmento espacial (satélites) el segmento de control (estaciones de observación equipadas para corregir a los satélites) y el receptor GPS del usuario (que recibe las señales y las transforma en mi posición)
+~Mi receptor GPS de usuario (que recibe las señales y las transforma en mi posición)
+#Son necesarios el segmento espacial (satélites) el segmento de control (estaciones de observación equipadas para corregir a los satélites) y el receptor GPS del usuario (que recibe las señales y las transforma en mi posición)
+~Las estaciones de control  (estaciones de observación equipadas para corregir a los satélites)
+#Son necesarios el segmento espacial (satélites) el segmento de control (estaciones de observación equipadas para corregir a los satélites) y el receptor GPS del usuario (que recibe las señales y las transforma en mi posición)
+~El segmento espacial (satélites) 
+#Son necesarios el segmento espacial (satélites) el segmento de control (estaciones de observación equipadas para corregir a los satélites) y el receptor GPS del usuario (que recibe las señales y las transforma en mi posición)
+} 
+
+::La triangulación:: Empareja las siguientes frases: {
+=Se necesitan un mínimo de... -> ...4 satélites a la vista para obtener una posición precisa en nuestro GPS
+=Nuestro receptor GPS recibe señal de... -> ...los satélites que tiene a la vista
+=3 satélites a la vista no son suficientes por... -> ...la falta de precisión del reloj de nuestro receptor GPS
+} 
+
+::La disponibilidad selectiva:: La disponibilidad selectiva (SA)... {
+=Es un error intencionado que el propietario del sistema GPS incluía en las mediciones GPS cuando quería
+#Correcto: pero desde el año 2.000 ya no se aplica
+~Es una selección de satélites que dan mejor señal que los vecinos
+#Es un error intencionado que el propietario del sistema GPS incluía en las mediciones GPS cuando quería, aunque desde el año 2.000 ya no se aplica
+}
+
+::CLONASS:: Señala qué afirmación es cierta... {
+=El sistema GLONASS lo creó la Unión Soviética y pretendía ser un equivalente al sistema GPS americano
+#Correcto: así es
+~El sistema GLONASS lo crearon los americanos para dar servicios a la Unión Soviética
+#El sistema GLONASS lo creó la Unión Soviética y pretendía ser un equivalente al sistema GPS americano
+~El sistema GLONASS es como el sistema GPS pero con un error de 30 m que todavía funciona
+#El sistema GLONASS lo creó la Unión Soviética y pretendía ser un equivalente al sistema GPS americano
+~El sistema GLONASS es el sistema GPS creado en Europa para uso civil
+#El sistema GLONASS lo creó la Unión Soviética y pretendía ser un equivalente al sistema GPS americano
+}
+
+::Galileo:: Señala qué afirmación es cierta... {
+=Galileo es un sistema GNSS desarrollado por la Unión Europea
+#Correcto: así es
+~Galileo trabaja conjuntamente con GPS y GLONASS para hacer un sistema global más completo
+#Son sistemas equivalentes, cada uno de distinto dueño, y pueden hacer las mismas funciones pero no han sido creados para complementarse
+=Galileo tendrá 27 satélites, que poco a poco se están poniendo en marcha
+#Correcto: así es
+=Galileo ha nacido en el ámbito civil, no el militar como los otros sistemas GNSS, y persigue ampliar el uso de utilidades civiles y de seguridad donde la geolocalización es importante
+#Correcto: así es
+}
+
+::SBAS:: Enlaza correctamente las siguientes afirmaciones: {
+=Los sistemas SBAS han sido creados para... -> ...corregir las señales de los sistemas GNSS
+=El sistema SBAS europeo se llama... -> ...EGNOS
+=El sistema SBAS americano se llama... -> ...WAAS
+=El sistema SBAS en el GPS senderista... -> ...se puede activar o desactivar a voluntad
+}
+
+::Errores del sistema:: Algunos de los errores del GPS más habituales son... {
+=El error multisenda... -> ...por rebotes de la señal en los edificios, escarpes rocosos, etc...
+=El error ionosférico... -> ...por restrasos en la señal GPS al atravesar la ionosfera
+=Error por geometría... -> ...por posición vertical de los satélites en la esfera de cielo que vemos desde un punto
+=Error del segmento espacial o el segmento de control... -> ...por mal ajuste entre estos dos segmentos
+}
+
+::Senderista o montañero:: Como federado, animate a usar el GPS por... (Varias opciones son posibles) {
+=Por ser una herramienta de seguridad
+=Porqué permite conocer las coordenadas de la posición en la que se está en caso de tener que pedir un rescate ->
+~Porqué si lo llevas es imposible que te pierdas
+#Hay que saber usar el GPS, no sólo llevarlo, pero es cierto que es más difícil que te pierdas si lo llevas y sabes usarlo
+=Porqué puede convertirse en un juego, o en una manera de hacerse con un "almacén" de tracks
+}
+
+::Saber manejar el GPS:: Saber manejar el GPS te puede servir para... {
+=Proporcionar información de seguridad o de ocio a otros montañeros
+~Garantizar que no se te vas a perder
+#El GPS, así como el mapa y la brújula, hay que llevarlos pero también hay que saber utilizarlos. 
+}
+
+::Rescates y emergencias:: A los grupos de rescate les pueden ser de utilidad... {
+=Información sobre las coordenadas de los que deben rescatar, así como archivos de tracks y puntos de interés sobre los caminos y abrigos de la zona
+~Que todo usuario lleve un GPS, aunque no lo sepa utilizar
+#Si no se sabe utilizar dificilmente podrán enviar unas coordenadas o saber donde se está
+}
+
+::GPS en el medio natural:: Si voy al medio natural con mi GPS no debo dejarme en casa... {
+=El mapa y la brújula, puesto que el GPS tiene sus limitaciones y errores y puede fallar
+~El manual de instrucciones del GPS, así seguro que todo va bien
+#El mapa y la brújula, puesto que el GPS tiene sus limitaciones y errores y puede fallar
+}
+
+::Terminos del GPS:: Empareja las afirmaciones correctas... {
+=Un Waypoint... -> ...es un único par de coordenadas que definen un punto
+=Un track... -> ...es una sucesión de puntos que definen un camino, con todas sus curvas y giros
+=Una ruta... -> ...es una sucesión de Waypoints unidos en linea recta
+=La opción trackback... -> ...permite recorrer de manera guiada por el GPS un track
+}
+
+::Tipos de GPS:: Señala qué afirmación es la correcta:{
+=GPS senderista y Smartphones permiten la geoposición del usuario: los primeros están pensados para un uso en el medio natural y los segundos llevan el GPS incorporado por defecto, de tal manera que a veces ni el usuario conoce esa posibilidad.
+~GPS senderistas y Smartphones están implantados entre los practicantes de actividades en el medio natural de manera masiva, de tal manera que llevarlos ambos es una rutina que todos siguen
+#Poca gente lleva GPS senederista y muchos llevan Smartphone pero lo desconocen...
+}
+
+::Marcas de GPS:: Señala qué afirmaciones son verdaderas...(varias opciones son correctas) {
+=Garmin, Magellan y TwoNav son marcas de GPS de tipo senderista
+~Sólo la marca Smartphone fabrica teléfonos inteligentes con GPS
+#Todos los Smartphones suelen llevar GPS, independientemente de su marca
+=El Smartphone puede "trabajar" como un GPS senderista si se le instala la App adecuada
+~El Smarphone jamás puede trabajar como un GPS senderista porque es un teléfono, esa opción no la tiene
+#Un Smartphone puede "trabajar" como un GPS senderista si se le instala la App adecuada
+}
 
 Contenido 1: 
 Continuar
 
-Saltar 1: 
-Página siguiente
+ 1: 
 
-Respuesta 1: 
 
-Por ser una herramienta de seguridad
 
-Comentario 1
 Correcto
 
-Puntuación
-1
+ de respuesta correcta: 
 
-Saltar
-Página siguiente
-
-Respuesta 2: 
-
-Porqué permite conocer las coordenadas de la posición en la que se está en caso de tener que pedir un rescate
-
-Comentario 2
-Correcto
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 3: 
-
-Porqué si lo llevas es imposible que te pierdas
-
-Comentario 3
-Incorrecto: hay que saber usar el GPS, no sólo llevarlo, pero es cierto que es más difícil que te pierdas si lo llevas y sabes usarlo
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 4: 
-
-Porqué puede convertirse en un juego, o en una manera de hacerse con un "almacén" de tracks
-
-Comentario 4
-Correcto
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 1: 
-
-Proporcionar información de seguridad o de ocio a otros montañeros
-
-Comentario 1
-Correcto
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 2: 
-
-Garantizar que no se te vas a perder
-
-Comentario 2
-Incorrecto: el GPS, así como el mapa y la brújula, hay que llevarlos pero también hay que saber utilizarlos. 
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 1: 
-
-Información sobre las coordenadas de los que deben rescatar, así como archivos de tracks y puntos de interés sobre los caminos y abrigos de la zona
-
-Comentario 1
-Correcto
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 2: 
-
-Que todo usuario lleve un GPS, aunque no lo sepa utilizar
-
-Comentario 2
-Incorrecto: si no se sabe utilizar dificilmente podrán enviar unas coordenadas o saber donde se está
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 1: 
-
-El mapa y la brújula, puesto que el GPS tiene sus limitaciones y errores y puede fallar
-
-Comentario 1
-Correcto
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 2: 
-
-El manual de instrucciones del GPS, así seguro que todo va bien
-
-Comentario 2
-Incorrecto: El mapa y la brújula, puesto que el GPS tiene sus limitaciones y errores y puede fallar
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Comentario (correcto)
-Correcto
-
-Puntuación de respuesta correcta: 
-1
 
 Salto a respuesta correcta: 
-Página siguiente
 
-Comentario (erróneo)
-Incorrecto: alguna de las parejas no la has acertado
 
-Puntuación de respuesta errónea: 
-0
 
-Salto a respuesta errónea: 
-Página siguiente
+alguna pareja no la has acertado
 
-Respuesta 1: 
+ de respuesta errónea: 
 
-Un Waypoint...
-
-Concuerda con la respuesta 1: 
-...es un único par de coordenadas que definen un punto
-
-Respuesta 2: 
-
-Un track...
-
-Concuerda con la respuesta 2: 
-...es una sucesión de puntos que definen un camino, con todas sus curvas y giros
-
-Respuesta 3: 
-
-Una ruta...
-
-Concuerda con la respuesta 3: 
-...es una sucesión de Waypoints unidos en linea recta
-
-Respuesta 4: 
-
-La opción trackback...
-
-Concuerda con la respuesta 4: 
-...permite recorrer de manera guiada por el GPS un track
-
-Respuesta 1: 
-
-GPS senderista y Smartphones permiten la geoposición del usuario: los primeros están pensados para un uso en el medio natural y los segundos llevan el GPS incorporado por defecto, de tal manera que a veces ni el usuario conoce esa posibilidad.
-
-Comentario 1
-Correcto
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 2: 
-
-GPS senderistas y Smartphones están implantados entre los practicantes de actividades en el medio natural de manera masiva, de tal manera que llevarlos ambos es una rutina que todos siguen
-
-Comentario 2
-Incorrecto:Poca gente lleva GPS senederista y muchos llevan Smartphone pero lo desconocen...
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 1: 
-
-Garmin, Magellan y TwoNav son marcas de GPS de tipo senderista
-
-Comentario 1
-Correcto
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 2: 
-
-Sólo la marca Smartphone fabrica teléfonos inteligentes con GPS
-
-Comentario 2
-Incorrecto: todos los Smartphones suelen llevar GPS, independientemente de su marca
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Respuesta 3: 
-
-El Smartphone puede "trabajar" como un GPS senderista si se le instala la App adecuada
-
-Comentario 3
-Correcto
-
-Puntuación
-1
-
-Saltar
-Página siguiente
-
-Respuesta 4: 
-
-El Smarphone jamás puede trabajar como un GPS senderista porque es un teléfono, esa opción no la tiene
-
-Comentario 4
-Incorrecto: un Smartphone puede "trabajar" como un GPS senderista si se le instala la App adecuada
-
-Puntuación
-0
-
-Saltar
-Página siguiente
-
-Contenido 1: 
-Continuar
-
-Saltar 1: 
-Página siguiente
-
-Comentario (correcto)
-Correcto
-
-Puntuación de respuesta correcta: 
-1
-
-Salto a respuesta correcta: 
-Página siguiente
-
-Comentario (erróneo)
-Incorrecto: alguna pareja no la has acertado
-
-Puntuación de respuesta errónea: 
-0
 
 Salto a respuesta errónea: 
-Página siguiente
+
 
 Respuesta 1: 
 
@@ -746,187 +167,187 @@ La vulnerabilidad de la pantalla ante golpes se evita...
 Concuerda con la respuesta 1: 
 ...protegiendo el teléfono de forma adecuada
 
-Respuesta 2: 
+ 
 
 Los problemas de autonomía de la batería se solucionan...
 
-Concuerda con la respuesta 2: 
+Concuerda con la  
 ...llevando uno o varios cargadores de repuesto
 
-Respuesta 3: 
+ 
 
 El GPS del Smartphone puede ser algo menos preciso que el GPS senderista pero...
 
-Concuerda con la respuesta 3: 
+Concuerda con la  
 ...eso no es una razón para no llevarlo en nuestras actividades en el medio natural, la diferencia es poca
 
-Respuesta 4: 
+ 
 
 Muchas personas llevan GPS en sus Smartphone al monte sin saber usarlo y sin conocer que...
 
-Concuerda con la respuesta 4: 
+Concuerda con la  
 ...es una importante herramienta de seguridad, complementaria a nuestro mapa y brújula
 
 Respuesta 1: 
 
 Capacidad para poder disponer de mapas online y offline, así como posibilidad de grabar tracks de mis recorridos y waypoints de los puntos de interés
 
-Comentario 1
+
 Correcto
 
-Puntuación
-1
 
-Saltar
-Página siguiente
 
-Respuesta 2: 
+
+
+
+
+ 
 
 Muchos satélites instalados y buena carga de batería
 
-Comentario 2
-Incorrecto: se valora que tenga Capacidad para poder disponer de mapas online y offline, así como posibilidad de grabar tracks de mis recorridos y waypoints de los puntos de interés
 
-Puntuación
-0
+se valora que tenga Capacidad para poder disponer de mapas online y offline, así como posibilidad de grabar tracks de mis recorridos y waypoints de los puntos de interés
 
-Saltar
-Página siguiente
+
+
+
+
+
 
 Respuesta 1: 
 
 Una sucesión de puntos, coordenadas X e Y, que componen el trazado de un camino, con todas sus revueltas
 
-Comentario 1
+
 Correcto
 
-Puntuación
-1
 
-Saltar
-Página siguiente
 
-Respuesta 2: 
+
+
+
+
+ 
 
 Una sucesión de Waypoints unidos en linea recta
 
-Comentario 2
-Incorrecto: eso sería una "ruta", un track es una sucesión de puntos, coordenadas X e Y, que componen el trazado de un camino, con todas sus revueltas
 
-Puntuación
-0
+eso sería una "ruta", un track es una sucesión de puntos, coordenadas X e Y, que componen el trazado de un camino, con todas sus revueltas
 
-Saltar
-Página siguiente
+
+
+
+
+
 
 Respuesta 1: 
 
 Con la opción trackback el GPS nos intenta llevar por un itinerario determinado
 
-Comentario 1
+
 Correcto
 
-Puntuación
-1
 
-Saltar
-Página siguiente
 
-Respuesta 2: 
+
+
+
+
+ 
 
 Con la opción trackback el GPS lo que hace es grabar un punto de interés
 
-Comentario 2
-Incorrecto: con esa opción el GPS nos intenta llevar por un itinerario determinado
 
-Puntuación
-0
+con esa opción el GPS nos intenta llevar por un itinerario determinado
 
-Saltar
-Página siguiente
 
-Respuesta 3: 
+
+
+
+
+
+ 
 
 Con la opción trackback el GPS lo que hace es indicarnos a que hora va a anochecer
 
-Comentario 3
-Incorrecto: con esa opción el GPS nos intenta llevar por un itinerario determinado
 
-Puntuación
-0
+con esa opción el GPS nos intenta llevar por un itinerario determinado
 
-Saltar
-Página siguiente
+
+
+
+
+
 
 Respuesta 1: 
 
 Localizaciones puntuales, un único par de coordenadas X e Y que definen un único punto sobre el planeta
 
-Comentario 1
+
 Correcto
 
-Puntuación
-1
 
-Saltar
-Página siguiente
 
-Respuesta 2: 
+
+
+
+
+ 
 
 Una sucesión de puntos que definen un camino, con todas sus revueltas
 
-Comentario 2
-Incorrecto: son localizaciones puntuales, un único par de coordenadas X e Y que definen un único punto sobre el planeta
 
-Puntuación
-0
+son localizaciones puntuales, un único par de coordenadas X e Y que definen un único punto sobre el planeta
 
-Saltar
-Página siguiente
+
+
+
+
+
 
 Respuesta 1: 
 
 Si queremos comunicar el GPS con el mapa (pasar una coordenada de un soporte a otro)
 
-Comentario 1
+
 Correcto
 
-Puntuación
-1
 
-Saltar
-Página siguiente
 
-Respuesta 2: 
+
+
+
+
+ 
 
 Nunca: el GPS y el mapa "hablan" por defecto el mismo "idioma"
 
-Comentario 2
-Incorrecto: El mapa puede estar georreferenciado en un sistema de coordenadas y Datum que no sea el mismo que el del GPS, por lo que si queremos comunicar el GPS con el mapa (pasar una coordenada de un soporte a otro) debermos asegurarnos de que están configurados de igual manera
 
-Puntuación
-0
+El mapa puede estar georreferenciado en un sistema de coordenadas y Datum que no sea el mismo que el del GPS, por lo que si queremos comunicar el GPS con el mapa (pasar una coordenada de un soporte a otro) debermos asegurarnos de que están configurados de igual manera
 
-Saltar
-Página siguiente
 
-Comentario (correcto)
+
+
+
+
+
+
 Correcto
 
-Puntuación de respuesta correcta: 
-1
+ de respuesta correcta: 
+
 
 Salto a respuesta correcta: 
-Página siguiente
 
-Comentario (erróneo)
-Incorrecto: alguna pareja no la has acertado
 
-Puntuación de respuesta errónea: 
-0
+
+alguna pareja no la has acertado
+
+ de respuesta errónea: 
+
 
 Salto a respuesta errónea: 
-Página siguiente
+
 
 Respuesta 1: 
 
@@ -935,185 +356,185 @@ Las Webs "oficiales"...
 Concuerda con la respuesta 1: 
 ...suelen tener información de tracks en los que puedes confiar
 
-Respuesta 2: 
+ 
 
 Las Webs colaborativas...
 
-Concuerda con la respuesta 2: 
+Concuerda con la  
 ...tiene muchísima información, pero conviene estar atento a la misma para no equivocarnos
 
-Respuesta 3: 
+ 
 
 Wikilock es...
 
-Concuerda con la respuesta 3: 
+Concuerda con la  
 ...la plataforma de intercambio de tracks más potente de las existentes
 
-Respuesta 4: 
+ 
 
 Webs de turismo comarcal, provincial o municipal...
 
-Concuerda con la respuesta 4: 
+Concuerda con la  
 ...cada vez más incorporan tracks a la información de las rutas que quieren promocionar
 
 Respuesta 1: 
 
 Las utilidades del GPS como herramienta de seguridad pueden ayudar en la planificación de la actividad si, por ejemplo, hacemos una ficha con mapa+perfil+datos técnicos del recorrido a pratir del track
 
-Comentario 1
+
 Correcto
 
-Puntuación
-1
 
-Saltar
-Página siguiente
 
-Respuesta 2: 
+
+
+
+
+ 
 
 El GPS sólo sirve para el campo, en casa, antes y después, no tiene ninguna utilidad
 
-Comentario 2
-Incorrecto: las utilidades del GPS como herramienta de seguridad pueden ayudar en la planificación de la actividad si, por ejemplo, hacemos una ficha con mapa+perfil+datos técnicos del recorrido a pratir del track
 
-Puntuación
-0
+las utilidades del GPS como herramienta de seguridad pueden ayudar en la planificación de la actividad si, por ejemplo, hacemos una ficha con mapa+perfil+datos técnicos del recorrido a pratir del track
 
-Saltar
-Página siguiente
 
-Respuesta 3: 
+
+
+
+
+
+ 
 
 El GPS no sirve para la seguridad de las actividades en el medio natural, su uso está limitado a la navegación aérea y marítima
 
-Comentario 3
-Incorrecto: las utilidades del GPS como herramienta de seguridad pueden ayudar en la planificación de la actividad si, por ejemplo, hacemos una ficha con mapa+perfil+datos técnicos del recorrido a pratir del track
 
-Puntuación
-0
+las utilidades del GPS como herramienta de seguridad pueden ayudar en la planificación de la actividad si, por ejemplo, hacemos una ficha con mapa+perfil+datos técnicos del recorrido a pratir del track
 
-Saltar
-Página siguiente
 
-Respuesta 4: 
+
+
+
+
+
+ 
 
 El GPS no sirve para nada
 
-Comentario 4
-Incorrecto: las utilidades del GPS como herramienta de seguridad pueden ayudar en la planificación de la actividad si, por ejemplo, hacemos una ficha con mapa+perfil+datos técnicos del recorrido a pratir del track
 
-Puntuación
-0
+las utilidades del GPS como herramienta de seguridad pueden ayudar en la planificación de la actividad si, por ejemplo, hacemos una ficha con mapa+perfil+datos técnicos del recorrido a pratir del track
 
-Saltar
-Página siguiente
+
+
+
+
+
 
 Respuesta 1: 
 
 En el IGN la información existente es libre y gratuita, siempre que no quiera ganar dinero con ella
 
-Comentario 1
+
 Correcto
 
-Puntuación
-1
 
-Saltar
-Página siguiente
 
-Respuesta 2: 
+
+
+
+
+ 
 
 En el IGN la información existente puede ser consultada, pero si la quiero descargar debo pagar por ella
 
-Comentario 2
-Incorrecto: la información existente es libre y gratuita, siempre que no quiera ganar dinero con ella
 
-Puntuación
-0
+la información existente es libre y gratuita, siempre que no quiera ganar dinero con ella
 
-Saltar
-Página siguiente
 
-Respuesta 3: 
+
+
+
+
+
+ 
 
 Puedo descargar mapas a distintas escalas y ortofotos de gran detalle y actualidad
 
-Comentario 3
+
 Correcto
 
-Puntuación
-1
 
-Saltar
-Esta página
 
-Respuesta 4: 
+
+
+
+
+ 
 
 Las mejores ortofotos existentes en el mercado no son las del IGN, sino las de Google, que en Aragón tienen una gran precisión
 
-Comentario 4
-Incorrecto: las ortofotos del IGN "Ortofoto PNOA máxima actualidad" suele tener menos de dos años de antiguedad y una resolución de por lo menos medio metro/píxel, mucho mejor que lo que ofrece google ahora mismo en Aragón
 
-Puntuación
-0
+las ortofotos del IGN "Ortofoto PNOA máxima actualidad" suele tener menos de dos años de antiguedad y una resolución de por lo menos medio metro/píxel, mucho mejor que lo que ofrece google ahora mismo en Aragón
 
-Saltar
-Página siguiente
+
+
+
+
+
 
 Respuesta 1: 
 
 El GPS puede fallar: quedarse sin batería, romperse, perder la señal...así que el mapa y la brújula siempre deberán estar en nuestra mochila
 
-Comentario 1
+
 Correcto: ¡este es nuestro principal consejo!
 
-Puntuación
-1
 
-Saltar
-Página siguiente
 
-Respuesta 2: 
+
+
+
+
+ 
 
 El GPS puede substituir al mapa y a la brújula, pues puede hacer el papel de ambos
 
-Comentario 2
-Incorrecto: el mapa y la brújula siempre deben estar en la mochila, el GPS puede ir también, pero como un elemento más de seguridad, nunca susstituyéndolos
 
-Puntuación
-0
+el mapa y la brújula siempre deben estar en la mochila, el GPS puede ir también, pero como un elemento más de seguridad, nunca susstituyéndolos
 
-Saltar
-Página siguiente
 
-Respuesta 3: 
+
+
+
+
+
+ 
 
 El manejo del GPS no es complicado pero como todo requiere de cierta práctica: si quieres que se convierta en una herramienta de seguridad para ti, llévalo siempre contigo a tus salidas al monte y dedica tiempo a "jugar" con él
 
-Comentario 3
+
 Correcto
 
-Puntuación
-1
 
-Saltar
-Página siguiente
 
-Respuesta 4: 
+
+
+
+
+ 
 
 Como federados debemos intentar diseñar nuestras actividades siempre sobre un mapa, aunque también puede ser de gran ayuda disponer de los tracks de las mismas, y utilizarlos
 
-Comentario 4
+
 Correcto
 
-Puntuación
-1
 
-Saltar
-Página siguiente
+
+
+
+
 
 Contenido 1: 
 FIn de la lección
 
-Saltar 1: 
+ 1: 
 Fin de la lección

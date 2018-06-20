@@ -1,6 +1,8 @@
 # Tipos de GPS (18 de 31)
 
-![GPS senderista y Smartphone](img/GPS senderista y Smartphone.jpg)Para un **uso en el medio natural** podemos pensar en **dos tipos de GPS**:
+![GPS senderista y Smartphone](img/GPS senderista y Smartphone.jpg)
+
+Para un **uso en el medio natural** podemos pensar en **dos tipos de GPS**:
 
 *   **El GPS senderista**: un aparato diseñado específicamente para ser usado en actividades al aire libre (con sus matices para senderismo, BTT, etc...)  
     
@@ -17,6 +19,3 @@ Esta realidad es un dato **positivo**. El precio de los GPS senderistas no han b
 
 Ahora sólo nos queda sacarle partido...Pensando siempre en no dejar de lado todo ese potencial...  
 
-#### Señala qué afirmación es la correcta:
-
-####
