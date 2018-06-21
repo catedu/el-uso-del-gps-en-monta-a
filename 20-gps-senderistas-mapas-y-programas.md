@@ -1,6 +1,8 @@
 # GPS senderistas: mapas y programas (20 de 31)
 
-![GPS con mapa montaña](img/GPS con mapa montaña.jpg)Los **GPS senderistas** están preparados para **llevar una base cartográfica** en el mismo apartado. Con ello intentan asemejarse lo más posible al siempre imprescindible mapa tradicional, con el plus de que el GPS nos muestra dónde estamos sobre ese mapa.
+![GPS con mapa montaña](img/GPS con mapa montaña.jpg)
+
+Los **GPS senderistas** están preparados para **llevar una base cartográfica** en el mismo apartado. Con ello intentan asemejarse lo más posible al siempre imprescindible mapa tradicional, con el plus de que el GPS nos muestra dónde estamos sobre ese mapa.
 
 Apenas se hacen GPS que no permitan llevar esa cartografía excursionista, y los pocos que quedan, aparte de ser más económicos, están diseñados fundamentalmente para actividades de [**geocaching**](https://www.geocaching.com/play "Web Geocaching").
 
@@ -20,3 +22,4 @@ Además, **si después queremos "jugar" en casa** con los datos que hemos recogi
 Para ello dos son los programas que más se utilizan (ambos de pago y con versiones demo), aunque cada marca tiene también su programa gratuito de descarga del GPS y otras funcionalidades, normalmente más limitadas que las de los programas de pago.  
 
 ![Programas para GPS y ordenador](img/Programas para GPS-ordenador.jpg)
+

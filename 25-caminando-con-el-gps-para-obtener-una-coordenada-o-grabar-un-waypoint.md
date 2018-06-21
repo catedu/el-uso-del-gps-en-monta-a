@@ -1,6 +1,8 @@
 # Caminando con el GPS para obtener una coordenada o grabar un waypoint (25 de 31)
 
-![Grabar Waypoints](img/Grabar Waypoints.jpg)Para **grabar un Waypoint** en nuestro GPS, o lo que es lo mismo, para **marcar la posición de un elemento de interé**s en nuestro GPS, hay que hacerlo de manera consciente, o lo que es lo miso, hay que "marcarlo".  
+![Grabar Waypoints](img/Grabar Waypoints.jpg)
+
+Para **grabar un Waypoint** en nuestro GPS, o lo que es lo mismo, para **marcar la posición de un elemento de interé**s en nuestro GPS, hay que hacerlo de manera consciente, o lo que es lo miso, hay que "marcarlo".  
 
 Normalmente el botón de marcar es un botón o una acción bastante intuitiva, puesto que **esta es una de las acciones que más frecuentemente haremos con nuestro GPS** (marcar un refugio, un puente, un abrigo, un cado de setas, etc...).  
 
@@ -12,4 +14,3 @@ Normalmente el botón de marcar es un botón o una acción bastante intuitiva, p
 
 De todas maneras, y **pensando en una situación de emergencia y de llamada par un rescate**, debe considerarse utilizar **aplicaciones de móvil que permiten incluir la geoposición en la misma llamada al 112**, como por ejemplo [**Alpify**](http://www.montanasegura.com/alpify/ "Alpify en Montaña Segura").  
 
-#### Los waypoints son...

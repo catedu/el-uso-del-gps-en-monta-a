@@ -11,7 +11,6 @@ Entre los **GPS Senderistas** las marcas más habituales son:
 *   [**TwoNav**](http://www.twonav.com/es/ "Web de TWONAV")  
     
 *   Otros (Teasi, Bushnell bactrack...)
-    
 
 ** Garmin y Magellan** son las que llevan más años en este tema, en verdad **son las pioneras en la fabricación de GPS de tipo senderista**. **TwoNav** se sumó más tarde, con una gama de productos más limitada pero de altas prestaciones.  
 

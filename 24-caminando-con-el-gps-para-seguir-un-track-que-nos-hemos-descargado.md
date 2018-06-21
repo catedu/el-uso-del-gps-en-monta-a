@@ -1,6 +1,8 @@
 # Caminando con el GPS para seguir un track que nos hemos descargado (24 de 31)
 
-![Track en GPS](img/Track en GPS.jpg)De la misma manera que cuando vamos grabando un track lo podemos ver en la pantalla de nuestro GPS, **también podemos llevar uno o varios tracks cargados en el GPS e intentar seguirlos**.
+![Track en GPS](img/Track en GPS.jpg)
+
+De la misma manera que cuando vamos grabando un track lo podemos ver en la pantalla de nuestro GPS, **también podemos llevar uno o varios tracks cargados en el GPS e intentar seguirlos**.
 
 **La forma más sencilla de seguirlos en el campo es, sencillamente, verlos sobre la pantalla del mapa** y seguirlo (**¡siempre a un nivel de zoom adecuado -suficientemente "cercano"-, no olvidéis nunca eso pues es una causa de muchos de los errores con el GPS!)**.  
 
@@ -10,4 +12,3 @@ Pero el GPS también permite esa **opción de "trackbak"** que antes nombrábamo
 
 Ahora bien, **es un juego muy interesante** y una de las posibilidades de los GPS. Prueba alguna vez que tengas tiempo a hacer un trackback. Eso sí, aunque vayas andando y mirando la pantalla del GPS...¡mírate también los pies!  
 
-Elige la opción correcta...

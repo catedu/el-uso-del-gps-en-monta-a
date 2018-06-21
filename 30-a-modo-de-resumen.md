@@ -4,4 +4,3 @@ A modo de resumen, **no podemos dejar de insistir en la importancia de llevar ma
 
 **La tecnología puede fallar,** pero además aprenderemos a **comprender el GPS si somos capaces de comprender el mapa en papel,** por lo que gran parte de nuestras habilidades con el GPS las conseguiremos si estamos acostumbrados a mirar y manejar los mapas en papel.
 
-#### Como montañeros federados, debéis tener claro que... (Varias opciones son posibles)

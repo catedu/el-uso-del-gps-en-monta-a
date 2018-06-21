@@ -1,6 +1,8 @@
 # Buscando información en internet: las fuentes oficiales, las Webs colaborativas y las redes sociales (27 de 31)
 
-![Visor de excursiones de Montaña Segura](img/Visor de excursiones de Montaña Segura.jpg)Si lo que necesitamos es **tener información para cargar en nuestro GPS antes de ir a recorrer una ruta (track)**, porque no conocemos la zona o porque no estamos seguros de la calidad de la información de la que disponemos, conviene tener en cuenta algunas cosas.
+![Visor de excursiones de Montaña Segura](img/Visor de excursiones de Montaña Segura.jpg)
+
+Si lo que necesitamos es **tener información para cargar en nuestro GPS antes de ir a recorrer una ruta (track)**, porque no conocemos la zona o porque no estamos seguros de la calidad de la información de la que disponemos, conviene tener en cuenta algunas cosas.
 
 Conviene que busquemos **información en fuentes "oficiales"**, organismos públicos que tengan archivos para GPS de las rutas que quieren promocionar, puesto que de alguna manera ellos responden por la calidad de la información que ofrecen (si bien nunca debemos olvidar que el medio natural es un medio cambiante, y dónde puede haber habido un puente en los últimos 10 años una reciente riada ha podido llevárselo).  
 
@@ -23,4 +25,3 @@ Si buscas **información o un track de una zona o ruta determianda y no lo encue
 
 Sin duda la principal página de ejemplo es [**Wikiloc**](http://es.wikiloc.com/wikiloc/home.do "Wikiloc"), si bien existen otras (y **también redes sociales**) en las que buscar información y también compartirla. (**[Endomondo](https://www.endomondo.com/ "Endomondo"), [EveryTrail](http://www.everytrail.com/ "Everytrail"), [Strava](https://www.strava.com/ "Strava"), etc...**)
 
-#### De las posibles fuentes de descarga de tracks no debes olvidar que...

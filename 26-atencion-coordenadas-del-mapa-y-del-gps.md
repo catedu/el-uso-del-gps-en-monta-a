@@ -1,6 +1,8 @@
 # Atención: coordenadas del mapa y del GPS (26 de 31)
 
-![GPS y mapa](img/GPS y mapa.jpg)Si hiciste el **curso voluntario de Nociones de Cartografía** recordarás que te hablábamos de los **distintos tipos de [sistemas de proyección](https://es.wikipedia.org/wiki/Sistema_de_coordenadas "Sistema de coordenadas en Wikipedia") (geográficas, proyectadas UTM, etc...) y de distintos tipos de [Datum](https://es.wikipedia.org/wiki/Datum "Datum en Wikipedia") (ETRS89, ED50, WGS84...)**.  
+![GPS y mapa](img/GPS y mapa.jpg)
+
+Si hiciste el **curso voluntario de Nociones de Cartografía** recordarás que te hablábamos de los **distintos tipos de [sistemas de proyección](https://es.wikipedia.org/wiki/Sistema_de_coordenadas "Sistema de coordenadas en Wikipedia") (geográficas, proyectadas UTM, etc...) y de distintos tipos de [Datum](https://es.wikipedia.org/wiki/Datum "Datum en Wikipedia") (ETRS89, ED50, WGS84...)**.  
 
 Debes saber que **los GPS, por defecto, toman todas las medidas en formato de coordenadas geográficas Datum WGS84**, aunque el formato en que nos muestra el apartado las coordenadas se puede configurar.  
 
@@ -34,4 +36,3 @@ Las siguientes imágenes muestran, para el refugio de Góriz, varios tipos de co
 
 Llegados a este punto te queda poco curso, y aunque seguro te hemos asustado un poco, **recuerda que esto sólo es importante si queremos comunicar nuestro GPS con nuestro mapa. Si somos capaces de comprender ambos soportes de manera independiente, no es necesario que estén configurados con el mismo sistema de coordenadas.**  
 
-#### Usando el GPS, es importante estar atentos al sistema de coordenadas y Datum del mapa si

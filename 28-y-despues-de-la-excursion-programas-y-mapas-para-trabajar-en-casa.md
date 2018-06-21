@@ -1,6 +1,8 @@
 # ¿Y después de la excursión?: programas  y mapas para trabajar en casa (28 de 31)
 
-![Ordenador-GPS](img/Ordenador-GPS.JPG)Como ya hemos comentado antes, el **GPS puede ser también una manera de "extender" en el tiempo nuestra excursión**. La **planificación previa** de la misma se puede ver enriquecida si sumamos a todos los protocolos y elementos de seguridad el buscar el track de una ruta y cargarla al GPS.
+![Ordenador-GPS](img/Ordenador-GPS.JPG)
+
+Como ya hemos comentado antes, el **GPS puede ser también una manera de "extender" en el tiempo nuestra excursión**. La **planificación previa** de la misma se puede ver enriquecida si sumamos a todos los protocolos y elementos de seguridad el buscar el track de una ruta y cargarla al GPS.
 
 **Después de la excursión**, lo habitual es **descargar el track y los waypoints** a nuestro ordenador, aunque sólo sea para almacenar esta información y poder volver a ella si un día repetimos la excursión o queremos compartir esta información con otras personas.  
 
@@ -18,4 +20,3 @@ Ambas marcas ponen a la **venta también cartografía en imagen para poder utili
 
 Estos programas también permiten **obtener perfiles**, por lo que la composición de mapa+perfil+datos técnicos es una información fácil de elaborar y puede ser un importante soporte a la seguridad de las actividades.  
 
-#### Si quieres manejar este tipo de programas tendrás que dedicarles tiempo aunque son bastante intuitivos, pero recuerda que...(selecciona la opción correcta)

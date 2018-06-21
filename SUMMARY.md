@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introducción](README.md)
 
 * [1. Qué es el sistema GPS     ](1-que-es-el-sistema-gps.md)
 * [2. Descripción del sistema: el segmento espacial     ](2-descripcion-del-sistema-el-segmento-espacial.md)

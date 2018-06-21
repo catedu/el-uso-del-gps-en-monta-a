@@ -136,405 +136,76 @@
 #Un Smartphone puede "trabajar" como un GPS senderista si se le instala la App adecuada
 }
 
-Contenido 1: 
-Continuar
-
- 1: 
-
-
-
-Correcto
-
- de respuesta correcta: 
-
-
-Salto a respuesta correcta: 
-
-
-
-alguna pareja no la has acertado
-
- de respuesta errónea: 
-
-
-Salto a respuesta errónea: 
-
-
-Respuesta 1: 
-
-La vulnerabilidad de la pantalla ante golpes se evita...
-
-Concuerda con la respuesta 1: 
-...protegiendo el teléfono de forma adecuada
-
- 
-
-Los problemas de autonomía de la batería se solucionan...
-
-Concuerda con la  
-...llevando uno o varios cargadores de repuesto
-
- 
-
-El GPS del Smartphone puede ser algo menos preciso que el GPS senderista pero...
-
-Concuerda con la  
-...eso no es una razón para no llevarlo en nuestras actividades en el medio natural, la diferencia es poca
-
- 
-
-Muchas personas llevan GPS en sus Smartphone al monte sin saber usarlo y sin conocer que...
-
-Concuerda con la  
-...es una importante herramienta de seguridad, complementaria a nuestro mapa y brújula
-
-Respuesta 1: 
-
-Capacidad para poder disponer de mapas online y offline, así como posibilidad de grabar tracks de mis recorridos y waypoints de los puntos de interés
-
-
-Correcto
-
-
-
-
-
-
-
- 
-
-Muchos satélites instalados y buena carga de batería
-
-
-se valora que tenga Capacidad para poder disponer de mapas online y offline, así como posibilidad de grabar tracks de mis recorridos y waypoints de los puntos de interés
-
-
-
-
-
-
-
-Respuesta 1: 
-
-Una sucesión de puntos, coordenadas X e Y, que componen el trazado de un camino, con todas sus revueltas
-
-
-Correcto
-
-
-
-
-
-
-
- 
-
-Una sucesión de Waypoints unidos en linea recta
-
-
-eso sería una "ruta", un track es una sucesión de puntos, coordenadas X e Y, que componen el trazado de un camino, con todas sus revueltas
-
-
-
-
-
-
-
-Respuesta 1: 
-
-Con la opción trackback el GPS nos intenta llevar por un itinerario determinado
-
-
-Correcto
-
-
-
-
-
-
-
- 
-
-Con la opción trackback el GPS lo que hace es grabar un punto de interés
-
-
-con esa opción el GPS nos intenta llevar por un itinerario determinado
-
-
-
-
-
-
-
- 
-
-Con la opción trackback el GPS lo que hace es indicarnos a que hora va a anochecer
-
-
-con esa opción el GPS nos intenta llevar por un itinerario determinado
-
-
-
-
-
-
-
-Respuesta 1: 
-
-Localizaciones puntuales, un único par de coordenadas X e Y que definen un único punto sobre el planeta
-
-
-Correcto
-
-
-
-
-
-
-
- 
-
-Una sucesión de puntos que definen un camino, con todas sus revueltas
-
-
-son localizaciones puntuales, un único par de coordenadas X e Y que definen un único punto sobre el planeta
-
-
-
-
-
-
-
-Respuesta 1: 
-
-Si queremos comunicar el GPS con el mapa (pasar una coordenada de un soporte a otro)
-
-
-Correcto
-
-
-
-
-
-
-
- 
-
-Nunca: el GPS y el mapa "hablan" por defecto el mismo "idioma"
-
-
-El mapa puede estar georreferenciado en un sistema de coordenadas y Datum que no sea el mismo que el del GPS, por lo que si queremos comunicar el GPS con el mapa (pasar una coordenada de un soporte a otro) debermos asegurarnos de que están configurados de igual manera
-
-
-
-
-
-
-
-
-Correcto
-
- de respuesta correcta: 
-
-
-Salto a respuesta correcta: 
-
-
-
-alguna pareja no la has acertado
-
- de respuesta errónea: 
-
-
-Salto a respuesta errónea: 
-
-
-Respuesta 1: 
-
-Las Webs "oficiales"...
-
-Concuerda con la respuesta 1: 
-...suelen tener información de tracks en los que puedes confiar
-
- 
-
-Las Webs colaborativas...
-
-Concuerda con la  
-...tiene muchísima información, pero conviene estar atento a la misma para no equivocarnos
-
- 
-
-Wikilock es...
-
-Concuerda con la  
-...la plataforma de intercambio de tracks más potente de las existentes
-
- 
-
-Webs de turismo comarcal, provincial o municipal...
-
-Concuerda con la  
-...cada vez más incorporan tracks a la información de las rutas que quieren promocionar
-
-Respuesta 1: 
-
-Las utilidades del GPS como herramienta de seguridad pueden ayudar en la planificación de la actividad si, por ejemplo, hacemos una ficha con mapa+perfil+datos técnicos del recorrido a pratir del track
-
-
-Correcto
-
-
-
-
-
-
-
- 
-
-El GPS sólo sirve para el campo, en casa, antes y después, no tiene ninguna utilidad
-
-
-las utilidades del GPS como herramienta de seguridad pueden ayudar en la planificación de la actividad si, por ejemplo, hacemos una ficha con mapa+perfil+datos técnicos del recorrido a pratir del track
-
-
-
-
-
-
-
- 
-
-El GPS no sirve para la seguridad de las actividades en el medio natural, su uso está limitado a la navegación aérea y marítima
-
-
-las utilidades del GPS como herramienta de seguridad pueden ayudar en la planificación de la actividad si, por ejemplo, hacemos una ficha con mapa+perfil+datos técnicos del recorrido a pratir del track
-
-
-
-
-
-
-
- 
-
-El GPS no sirve para nada
-
-
-las utilidades del GPS como herramienta de seguridad pueden ayudar en la planificación de la actividad si, por ejemplo, hacemos una ficha con mapa+perfil+datos técnicos del recorrido a pratir del track
-
-
-
-
-
-
-
-Respuesta 1: 
-
-En el IGN la información existente es libre y gratuita, siempre que no quiera ganar dinero con ella
-
-
-Correcto
-
-
-
-
-
-
-
- 
-
-En el IGN la información existente puede ser consultada, pero si la quiero descargar debo pagar por ella
-
-
-la información existente es libre y gratuita, siempre que no quiera ganar dinero con ella
-
-
-
-
-
-
-
- 
-
-Puedo descargar mapas a distintas escalas y ortofotos de gran detalle y actualidad
-
-
-Correcto
-
-
-
-
-
-
-
- 
-
-Las mejores ortofotos existentes en el mercado no son las del IGN, sino las de Google, que en Aragón tienen una gran precisión
-
-
-las ortofotos del IGN "Ortofoto PNOA máxima actualidad" suele tener menos de dos años de antiguedad y una resolución de por lo menos medio metro/píxel, mucho mejor que lo que ofrece google ahora mismo en Aragón
-
-
-
-
-
-
-
-Respuesta 1: 
-
-El GPS puede fallar: quedarse sin batería, romperse, perder la señal...así que el mapa y la brújula siempre deberán estar en nuestra mochila
-
-
-Correcto: ¡este es nuestro principal consejo!
-
-
-
-
-
-
-
- 
-
-El GPS puede substituir al mapa y a la brújula, pues puede hacer el papel de ambos
-
-
-el mapa y la brújula siempre deben estar en la mochila, el GPS puede ir también, pero como un elemento más de seguridad, nunca susstituyéndolos
-
-
-
-
-
-
-
- 
-
-El manejo del GPS no es complicado pero como todo requiere de cierta práctica: si quieres que se convierta en una herramienta de seguridad para ti, llévalo siempre contigo a tus salidas al monte y dedica tiempo a "jugar" con él
-
-
-Correcto
-
-
-
-
-
-
-
- 
-
-Como federados debemos intentar diseñar nuestras actividades siempre sobre un mapa, aunque también puede ser de gran ayuda disponer de los tracks de las mismas, y utilizarlos
-
-
-Correcto
-
-
-
-
-
-
-
-Contenido 1: 
-FIn de la lección
-
- 1: 
-Fin de la lección
+::El GPS del Smartphone:: Sobre el uso del GPS del Smartphone podemos afirmar que... {
+=La vulnerabilidad de la pantalla ante golpes se evita... -> ...protegiendo el teléfono de forma adecuada
+=Los problemas de autonomía de la batería se solucionan... -> ...llevando uno o varios cargadores de repuesto
+=El GPS del Smartphone puede ser algo menos preciso que el GPS senderista pero... -> ...eso no es una razón para no llevarlo en nuestras actividades en el medio natural, la diferencia es poca
+=Muchas personas llevan GPS en sus Smartphone al monte sin saber usarlo y sin conocer que... -> ...es una importante herramienta de seguridad, complementaria a nuestro mapa y brújula
+}
+
+::Smartphone como GPS de senderista:: Un buen programa para hacer funcionar nuestro Smartphone como un GPS senderista debe tener... {
+=Capacidad para poder disponer de mapas online y offline, así como posibilidad de grabar tracks de mis recorridos y waypoints de los puntos de interés
+~Muchos satélites instalados y buena carga de batería
+#Se valora que tenga Capacidad para poder disponer de mapas online y offline, así como posibilidad de grabar tracks de mis recorridos y waypoints de los puntos de interés
+}
+
+::¿Qué es un track:: En resumen, un track es... {
+=Una sucesión de puntos, coordenadas X e Y, que componen el trazado de un camino, con todas sus revueltas
+~Una sucesión de Waypoints unidos en linea recta
+#Eso sería una "ruta", un track es una sucesión de puntos, coordenadas X e Y, que componen el trazado de un camino, con todas sus revueltas
+}
+
+::Usando la opción trackback:: Elige la opción correcta... {
+=Con la opción trackback el GPS nos intenta llevar por un itinerario determinado
+~Con la opción trackback el GPS lo que hace es grabar un punto de interés
+#Con esa opción el GPS nos intenta llevar por un itinerario determinado
+~Con la opción trackback el GPS lo que hace es indicarnos a que hora va a anochecer
+#Con esa opción el GPS nos intenta llevar por un itinerario determinado
+}
+
+::¿Qué son los waypoints:: Los waypoints son... {
+=Localizaciones puntuales, un único par de coordenadas X e Y que definen un único punto sobre el planeta
+~Una sucesión de puntos que definen un camino, con todas sus revueltas
+#Son localizaciones puntuales, un único par de coordenadas X e Y que definen un único punto sobre el planeta
+}
+
+::CC y Datum del mapa:: Usando el GPS, es importante estar atentos al sistema de coordenadas y Datum del mapa si {
+=Si queremos comunicar el GPS con el mapa (pasar una coordenada de un soporte a otro)
+~Nunca: el GPS y el mapa "hablan" por defecto el mismo "idioma"
+#El mapa puede estar georreferenciado en un sistema de coordenadas y Datum que no sea el mismo que el del GPS, por lo que si queremos comunicar el GPS con el mapa (pasar una coordenada de un soporte a otro) debermos asegurarnos de que están configurados de igual manera
+}
+
+::Información en internet sobre rutas:: De las posibles fuentes de descarga de tracks no debes olvidar que... {
+=Las Webs "oficiales"... -> ...suelen tener información de tracks en los que puedes confiar
+=Las Webs colaborativas... -> ...tiene muchísima información, pero conviene estar atento a la misma para no equivocarnos
+=Wikilock es... -> ...la plataforma de intercambio de tracks más potente de las existentes
+=Webs de turismo comarcal, provincial o municipal... -> ...cada vez más incorporan tracks a la información de las rutas que quieren promocionar
+}
+
+::Software de GPS:: Si quieres manejar este tipo de programas tendrás que dedicarles tiempo aunque son bastante intuitivos, pero recuerda que...(selecciona la opción correcta) {
+=Las utilidades del GPS como herramienta de seguridad pueden ayudar en la planificación de la actividad si, por ejemplo, hacemos una ficha con mapa+perfil+datos técnicos del recorrido a pratir del track
+~El GPS sólo sirve para el campo, en casa, antes y después, no tiene ninguna utilidad
+#Las utilidades del GPS como herramienta de seguridad pueden ayudar en la planificación de la actividad si, por ejemplo, hacemos una ficha con mapa+perfil+datos técnicos del recorrido a pratir del track
+~El GPS no sirve para la seguridad de las actividades en el medio natural, su uso está limitado a la navegación aérea y marítima
+#Las utilidades del GPS como herramienta de seguridad pueden ayudar en la planificación de la actividad si, por ejemplo, hacemos una ficha con mapa+perfil+datos técnicos del recorrido a pratir del track
+~El GPS no sirve para nada
+#Las utilidades del GPS como herramienta de seguridad pueden ayudar en la planificación de la actividad si, por ejemplo, hacemos una ficha con mapa+perfil+datos técnicos del recorrido a pratir del track
+} 
+
+::Mapas del IGN:: Conviene recordar que...(varias opciones son posibles) {
+=En el IGN la información existente es libre y gratuita, siempre que no quiera ganar dinero con ella
+~En el IGN la información existente puede ser consultada, pero si la quiero descargar debo pagar por ella
+#La información existente es libre y gratuita, siempre que no quiera ganar dinero con ella
+=Puedo descargar mapas a distintas escalas y ortofotos de gran detalle y actualidad
+~Las mejores ortofotos existentes en el mercado no son las del IGN, sino las de Google, que en Aragón tienen una gran precisión
+#Llas ortofotos del IGN "Ortofoto PNOA máxima actualidad" suele tener menos de dos años de antiguedad y una resolución de por lo menos medio metro/píxel, mucho mejor que lo que ofrece google ahora mismo en Aragón
+}
+
+::Puntos importantes como Federados:: Como montañeros federados, debéis tener claro que... (Varias opciones son posibles) {
+=El GPS puede fallar: quedarse sin batería, romperse, perder la señal...así que el mapa y la brújula siempre deberán estar en nuestra mochila
+#¡Este es nuestro principal consejo!
+~El GPS puede substituir al mapa y a la brújula, pues puede hacer el papel de ambos
+#El mapa y la brújula siempre deben estar en la mochila, el GPS puede ir también, pero como un elemento más de seguridad, nunca susstituyéndolos
+=El manejo del GPS no es complicado pero como todo requiere de cierta práctica: si quieres que se convierta en una herramienta de seguridad para ti, llévalo siempre contigo a tus salidas al monte y dedica tiempo a "jugar" con él
+=Como federados debemos intentar diseñar nuestras actividades siempre sobre un mapa, aunque también puede ser de gran ayuda disponer de los tracks de las mismas, y utilizarlos
+}

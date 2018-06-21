@@ -1,6 +1,8 @@
 # Caminando con el GPS para registrar un track (23 de 31)
 
-**![imagen del track](img/imagen del track.jpg)¿Nos ponemos a caminar?** Sí, haber llegado hasta la diapositiva 23 sin haber salido a hacer ningún recorrido te puede parecer una pérdida de tiempo, pero ya os adelantamos al inicio que **este no es un curso de manejo de GPS, sino de fundamentos del GPS**: comprender para saber utilizar...
+![imagen del track](img/imagen del track.jpg)
+
+**¿Nos ponemos a caminar?** Sí, haber llegado hasta la diapositiva 23 sin haber salido a hacer ningún recorrido te puede parecer una pérdida de tiempo, pero ya os adelantamos al inicio que **este no es un curso de manejo de GPS, sino de fundamentos del GPS**: comprender para saber utilizar...
 
 Bien, pues cogemos nuestra mochila y nos ponemos a andar, sí. Hemos sido unos montañeros prudentes y **llevamos de todo: mapa, brújula y sí, también GPS**.
 
@@ -15,5 +17,3 @@ En cualquier caso, no debemos olvidar que el GPS grabará todo lo que hagamos: s
 Además, **el track que vamos grabando siempre se verá sobre el mapa** que llevemos cargado de fondo como una linea que dibujan nuestros pies. **Es una manera de "dejar miguitas de pan"** para encontrar el camino de regreso, pero en este caso se trata de miguitas virtuales.  
 
 El **archivo de descarga del track acostumbra a ser un formato [GPX](https://es.wikipedia.org/wiki/GPX "Formato GPX en wikipedia")** (**GPS eXchange Format**), formato universal de intercambio de información geográfica. Es un formato que podemos abrirlo con un editor de textos normal, y veremos que es de una gran sencillez: una sucesión de coordenadas geográficas ([**Datum**](https://es.wikipedia.org/wiki/Datum "Datum en wikipedia") WGS84, si no recuerdas lo que es eso puedes repasarlo en el curso de cartografía, aunque también podrás vivir sin saberlo...) que son los puntos que componen nuestro camino, con todas sus revueltas.  
-
-#### En resumen, un track es...
