@@ -2,7 +2,7 @@
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
     "language": "es",
     "variables": {
-        "title": "______________",
+        "title": "El uso del GPS en montaña",
         "author": "______________",
         "collaborators": [
             { "name": "_________", "edited": "_____________" }
