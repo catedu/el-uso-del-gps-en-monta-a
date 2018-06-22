@@ -7,8 +7,6 @@ Esperamos que te haya sido provechoso y te animamos a que nos comentes tus impre
 
 Recuerda que entre todos podemos educar en el **correcto y habitual uso del GPS en montaña**, y que vuestro papel de **montañero** es fundamental para ello.
 
-**¡No olvides darle al botón de "fin de la lección" para que el curso se considere finalizado!**
-
 #### ¡Muchas gracias y hasta pronto!
 
 #### Montaña Segura
