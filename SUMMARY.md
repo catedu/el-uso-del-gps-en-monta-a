@@ -33,3 +33,7 @@
 * [29. Mapas oficiales del IGN     ](29-mapas-oficiales-del-ign.md)
 * [30. A modo de resumen...     ](30-a-modo-de-resumen.md)
 * [31. FIn de la lección     ](31-fin-de-la-leccion.md)
+
+___
+
+* [Créditos](crditos-buenos.md)
